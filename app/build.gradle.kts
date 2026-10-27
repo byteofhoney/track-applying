@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.abeera.trackapplying"
+    namespace = "com.task.trackapplying"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.abeera.trackapplying"
+        applicationId = "com.task.trackapplying"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
